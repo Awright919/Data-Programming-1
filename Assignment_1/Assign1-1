@@ -1,0 +1,5 @@
+lastName, firstName, gpa = input().split()
+
+print("Last Name: " + lastName)
+print("First Name: " + firstName)
+print("GPA:  ", float(gpa))
